@@ -1,15 +1,17 @@
 {
-    "name": "bootstrap-durationpicker",
-    "version": "1.0.0",
-    "description": "A durationpicker component for Twitter Bootstrap",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bilbous/bootstrap-durationpicker"
-    },
-    "main": ["js/bootstrap-durationpicker.min.js", "css/bootstrap-durationpicker.min.css"],
-    "dependencies": {
-        "bootstrap": ">=2.0.4",
-        "jquery": ">=1.8.3"
-    }
+  "name": "bootstrap3-durationpicker",
+  "version": "2.0.0",
+  "description": "A durationpicker component for Twitter Bootstrap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mysrob/bootstrap3-durationpicker"
+  },
+  "main": [
+    "js/bootstrap-durationpicker.min.js",
+    "css/bootstrap-durationpicker.min.css"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
 }
-
