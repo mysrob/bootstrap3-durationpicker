@@ -1,12 +1,6 @@
 Durationpicker for Twitter Bootstrap
 =======
 
-A simple durationpicker component for Twitter Bootstrap.
+A simple durationpicker component for Twitter Bootstrap 3.
 
-Demos & Documentation
-=====================
-
-View <a href="http://bilbous.github.io/bootstrap-durationpicker">demos & documentation</a>.
-
-
-Special thanks to @jdewit and his <a href="https://github.com/jdewit/bootstrap-timepicker">Twitter Timepicker</a> for inspiration and basecode.    
+Forked from <a href="https://github.com/Bilbous/bootstrap-durationpicker">Bilbous/bootstrap-durationpicker</a>.    
