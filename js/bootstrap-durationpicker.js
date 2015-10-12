@@ -1,7 +1,7 @@
 /*!
  * Durationpicker Component for Twitter Bootstrap
  *
- * bootstrap-durationpicker v1.0.0
+ * bootstrap-durationpicker v2.0.1
  * 
  * http://bilbous.github.com/bootstrap-durationpicker
  * 
