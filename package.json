@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap3-durationpicker",
+  "version": "2.0.2",
+  "description": "A simple durationpicker component for Twitter Bootstrap",
+  "main": "js/bootstrap-durationpicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mysrob/bootstrap3-durationpicker.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "duration",
+    "picker"
+  ],
+  "author": "mysrob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mysrob/bootstrap3-durationpicker/issues"
+  },
+  "homepage": "https://github.com/mysrob/bootstrap3-durationpicker#readme"
+}
